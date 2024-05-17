@@ -60,7 +60,7 @@ Click the Git icon and then click _Clone a Repository_.
 In the window that pops up, copy the Git URL for this repository and paste it into the box:
 
 ```
-https://github.com/OpenShiftDemos/rhods-fraud-detection.git
+https://github.com/flg77/rhods-fraud-detection.git
 ```
 
 Then, click _CLONE_.
